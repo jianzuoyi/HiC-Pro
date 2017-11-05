@@ -1,0 +1,11 @@
+
+#########################################################################
+## Paths and Settings  - Start editing here !
+#########################################################################
+
+PREFIX = /its1/GB_BT2/jianzuoyi/biosoft
+BOWTIE2_PATH = /its1/GB_BT2/jianzuoyi/biosoft/anaconda/bin/bowtie2
+SAMTOOLS_PATH = /its1/GB_BT2/jianzuoyi/biosoft/anaconda/bin/samtools
+R_PATH = /its1/GB_BT2/jianzuoyi/biosoft/anaconda/bin
+PYTHON_PATH = /its1/GB_BT2/jianzuoyi/biosoft/anaconda/bin/python
+CLUSTER_SYS = SGE
